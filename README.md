@@ -4,5 +4,5 @@ Some time in the far future, it will become clear!
 
 ## Webhook
 Discord notifications in the #activity channel
-
+---
 ---
