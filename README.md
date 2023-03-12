@@ -1,2 +1,3 @@
 # EVEntualy
-Some time in the future, maybe...soon™
+Some time in the far future, it will become clear!
+...SOON™
