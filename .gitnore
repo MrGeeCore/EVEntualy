@@ -1,0 +1,11 @@
+### Obsidian ###
+# config dir
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# OR to exclude workspace cache:
+# .obsidian/workspace.json
+
+# exclude OS settings and caches
+.trash/
+#.DS_Store
